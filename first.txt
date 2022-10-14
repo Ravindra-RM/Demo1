@@ -1,7 +1,12 @@
 this is the first file for github demo
 second line
+<<<<<<< HEAD
 1
 2
 3
 4
 5
+=======
+third line
+fourth line
+>>>>>>> aa95047c392f97940855f17ebb95c60fdd5d10c5
